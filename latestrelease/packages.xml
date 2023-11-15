@@ -1,6 +1,6 @@
 
 					<packages>
-						<package name="NewPackageIvy" version="6.14.1" os="all" url="NewPackageIvy/NewPackageIvy-6.14.1-all.zip" desc="ILP^2 Miner" org="RWTH Aachen" license="GPL" author="ILP2Miner" auto="false" hasPlugins="true" logo="prom_subtitle_hat_300.png">
+						<package name="ILP2Miner" version="6.14.2" os="all" url="ILP2Miner/ILP2Miner-6.14.2-all.zip" desc="ILP^2 Miner" org="RWTH Aachen" license="GPL" author="Max Gottwald" auto="false" hasPlugins="true" logo="prom_subtitle_hat_300.png">
 				    	<dependency org="prom" name="ProM-Plugins" rev="latest" changing="true" transitive="true" />
     	<dependency org="prom" name="BasicUtils" rev="latest" changing="true" transitive="true" />
     	<dependency org="prom" name="Widgets" rev="latest" changing="true" transitive="true" />
