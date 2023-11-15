@@ -8,9 +8,9 @@
 	<property name="dist" location="dist" />
 	<property name="release" location="latestrelease" />
 	<property name="version" value="${env.major_minor}.${env.GITHUB_RUN_NUMBER}" />
-	<property name="project" value="NewPackageIvy" />
+	<property name="project" value="ILP2Miner" />
 
-	<property name="author" value="ILP2Miner" />
+	<property name="author" value="Max Gottwald" />
 	<property name="organization" value="RWTH Aachen" />
 	<property name="description" value="ILP^2 Miner" />
 	<!-- See https://svn.win.tue.nl/trac/prom/browser/Packages/ProM-Contexts/Trunk/src/org/processmining/contexts/uitopia/packagemanager/PMPackageView.java for a list of known licenses. -->
